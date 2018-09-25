@@ -591,3 +591,5 @@ lib64/hw/fingerprint.msm8994.so
 lib/libcom_fingerprints_service.so
 lib64/libcom_fingerprints_service.so
 
+# Secd
+bin/idd-logreader
