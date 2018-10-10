@@ -44,6 +44,15 @@ lib/libsomc_yummyrsc.so
 lib/libsony_fooddetect.so
 lib/libsony_naruto.so
 lib64/libcamera_clientsemc.so
+
+# bt 2018-10-03 Added missing blob's
+vendor/lib/libchromaflash.so
+vendor/lib/liboptizoom.so
+vendor/lib/libubifocus.so
+vendor/lib/libtrueportrait.so
+vendor/lib/libseemore.so
+# bt 2018-10-03 ---end---
+
 vendor/lib/libfastcvadsp_stub.so
 vendor/lib/libjpegdhw.so
 vendor/lib/libjpegdmahw.so
@@ -443,7 +452,6 @@ vendor/camera/SOI25BS4/object_tracker.dat
 vendor/camera/SOI25BS4/scene_detector.dat
 vendor/camera/SOI25BS4/snapshot_ctrl.dat
 
-
 vendor/lib/libactuator_ad5823.so
 vendor/lib/libactuator_ad5823_camcorder.so
 vendor/lib/libactuator_ad5823_camera.so
@@ -591,5 +599,7 @@ lib64/hw/fingerprint.msm8994.so
 lib/libcom_fingerprints_service.so
 lib64/libcom_fingerprints_service.so
 
+# bt 2018-09-24 Added missing blob's
 # Secd
 bin/idd-logreader
+# bt 2018-09-24 ---end---
