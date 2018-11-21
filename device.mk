@@ -78,3 +78,5 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     fingerprintd
 
+# FDroid
+$(call inherit-product-if-exists, vendor/fdroid/fdroid-vendor.mk)
