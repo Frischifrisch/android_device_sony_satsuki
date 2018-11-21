@@ -51,6 +51,9 @@ BOARD_HAVE_RADIO := true
 # Wifi
 WIFI_BUS := PCIE
 
+# FDroid
+WITH_FDROID := true
+
 # Init
 TARGET_INIT_VENDOR_LIB := libinit_satsuki
 TARGET_UNIFIED_DEVICE := true
